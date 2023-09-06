@@ -1,1 +1,2 @@
-print("Integrales que me gusta mucho")
+print("Integrales chulas)
+print("Conflictos")
