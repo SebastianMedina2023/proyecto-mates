@@ -1,2 +1,2 @@
-print("Integrales chulas)
+print("Integrales chulas")
 print("Conflictos")
